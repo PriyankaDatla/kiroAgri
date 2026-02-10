@@ -4,17 +4,17 @@ KiroAgri is an AI-powered platform designed to support farmers and rural communi
 
 
 
-## 🚀 Problem Statement
+##  Problem Statement
 Rural farmers often lack timely access to reliable and localized agricultural guidance. Traditional advisory systems are mostly rule-based and struggle to adapt to regional variability, climate uncertainty, and unstructured user inputs.
 
 
 
-## 💡 Solution Overview
+##  Solution Overview
 KiroAgri uses AI models to understand farmer queries, retrieve relevant knowledge, and generate explainable recommendations that help improve productivity while promoting sustainable agriculture.
 
 
 
-## 🧠 Key Features
+##  Key Features
 - AI-powered crop recommendations  
 - Smart irrigation advisory  
 - Sustainable farming guidance  
@@ -23,7 +23,7 @@ KiroAgri uses AI models to understand farmer queries, retrieve relevant knowledg
 - Scalable and secure architecture  
 
 
-## 🤖 Why AI?
+##  Why AI?
 KiroAgri relies on NLP and machine learning models to:
 - Understand unstructured farmer queries  
 - Learn from diverse agricultural data  
